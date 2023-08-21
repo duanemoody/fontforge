@@ -80,13 +80,13 @@ Font File Formats
 * Apple distortable font (variation tables) -- vaguely equivalent to Multiple
   Master fonts for TrueType
 
-  * `fvar <http://developer.apple.com/fonts/TTRefMan/RM06/Chap6fvar.html>`__ (font
+  * `fvar <https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6fvar.html>`__ (font
     variations)
-  * `gvar <http://developer.apple.com/fonts/TTRefMan/RM06/Chap6gvar.html>`__ (glyph
+  * `gvar <https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6gvar.html>`__ (glyph
     variations)
-  * `cvar <http://developer.apple.com/fonts/TTRefMan/RM06/Chap6cvar.html>`__ (cvt
+  * `cvar <https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cvar.html>`__ (cvt
     variations)
-  * `avar <http://developer.apple.com/fonts/TTRefMan/RM06/Chap6avar.html>`__ (axis
+  * `avar <https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6avar.html>`__ (axis
     variations)
 * .. _bibliography.OpenType:
 
